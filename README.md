@@ -53,3 +53,12 @@
   <img align="left" alt="Rahul's Github Stats" src="https://github-readme-stats.dhankhar313.vercel.app//api?username=dhankhar313&show_icons=true&theme=buefy&hide_border=true" />
 
 </details>
+
+### Certifications
+
+- [Python Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/2KJ6WPBSUQXH)
+- [IoT Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/7GE9E76MHGKX)
+- [Machine Learning by Stanford](https://www.coursera.org/account/accomplishments/certificate/GH295V72NK9U)
+- [Computer Vision](https://www.coursera.org/account/accomplishments/certificate/G627Y2XB9WJ8)
+- [Interacting with OS (Linux) by Google](https://www.coursera.org/account/accomplishments/certificate/D8TADSH4RR2Z)
+- [Intro to Data Science](https://www.coursera.org/account/accomplishments/certificate/534UMPA43WVT)
