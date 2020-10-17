@@ -51,11 +51,10 @@
 
 - [Python Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/2KJ6WPBSUQXH)
 - [IoT Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/7GE9E76MHGKX)
+- [IT Automation Specialization by Google](https://www.coursera.org/account/accomplishments/specialization/certificate/UF4RT4DJRCHK)
 - [Machine Learning by Stanford](https://www.coursera.org/account/accomplishments/certificate/GH295V72NK9U)
 - [Computer Vision](https://www.coursera.org/account/accomplishments/certificate/G627Y2XB9WJ8)
-- [Interacting with OS (Linux) by Google](https://www.coursera.org/account/accomplishments/certificate/D8TADSH4RR2Z)
 - [Intro to Data Science](https://www.coursera.org/account/accomplishments/certificate/534UMPA43WVT)
-- [Git and Github by Google](https://www.coursera.org/account/accomplishments/certificate/XXBGJ8EUN7VV)
 
 <br />
 <details>
