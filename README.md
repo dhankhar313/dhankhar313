@@ -46,14 +46,7 @@
 </p>
 <br />
 <br />
-<p align="left">
-<details>
-  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Rahul's Github Stats" src="https://github-readme-stats.dhankhar313.vercel.app//api?username=dhankhar313&show_icons=true&theme=buefy&hide_border=true" />
-
-</details>
-</p>
 ### Certifications
 
 - [Python Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/2KJ6WPBSUQXH)
@@ -63,3 +56,11 @@
 - [Interacting with OS (Linux) by Google](https://www.coursera.org/account/accomplishments/certificate/D8TADSH4RR2Z)
 - [Intro to Data Science](https://www.coursera.org/account/accomplishments/certificate/534UMPA43WVT)
 - [Git and Github by Google](https://www.coursera.org/account/accomplishments/certificate/XXBGJ8EUN7VV)
+
+<br />
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Rahul's Github Stats" src="https://github-readme-stats.dhankhar313.vercel.app//api?username=dhankhar313&show_icons=true&theme=buefy&hide_border=true" />
+
+</details>
