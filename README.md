@@ -8,7 +8,7 @@
   - Creating an AI that plays Flappy Bird
   - Learning Neural Networks and Deep Learning
 
-- I'm currently working on Machine Learning and Neural Networks and will soon move on to Deep Leaerning
+- I'm currently working on Machine Learning and Neural Networks and will soon move on to Deep Learning
 
 - Reach me at **cse.2278@gmail.com**
 
