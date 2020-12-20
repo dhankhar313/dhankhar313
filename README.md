@@ -29,7 +29,7 @@
 <br />
 <br />
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="Tensorflow" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="Tensorflow" width="80" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
